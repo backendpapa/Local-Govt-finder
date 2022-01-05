@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Local Govt Advicer App</string>
+    <string name="info">Welcome to the Local Government finder for Nigerian states</string>
+    <string name="info2">Select a state</string>
+    <string name="button">Find Local Govt</string>
+
+    <string-array name="states">
+        <item>FCT</item>
+        <item>Abia</item>
+        <item>Adamawa</item>
+        <item>Akwa Ibom</item>
+        <item>Anambra</item>
+        <item>Bayelsa</item>
+    </string-array>
+</resources>
